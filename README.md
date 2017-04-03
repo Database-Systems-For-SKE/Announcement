@@ -2,9 +2,9 @@
 
 |Link|Description|
 |----|-----------|
-|139.59.111.176|raw ip address (use for `ssh`)|
-|https://kamontat.me|Main website (should always map to `https`)|
-|https://kamontat.me/phpmyadmin/|phpmyadmin site|
+| 139.59.111.176 |raw ip address (use for `ssh`) |
+| [kamontat.me](https://kamontat.me) | Main website (should always map to `https`) |
+| [kamontat.me/phpmyadmin/](https://kamontat.me/phpmyadmin/) | phpmyadmin site |
 
 # how to
 
