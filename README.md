@@ -15,3 +15,16 @@
 # Password Announcement
 1. ssh - use this (link)[http://www.md5online.org/md5-encrypt.html] to encrypt my given raw password
 2. phpmyadmin - user should be `root` and password will stay at `~/.digitalocean_password`
+
+# Error
+
+## 2002
+2002 - No such file or directory<br />The server is not responding (or the local server's socket is not correctly configured).
+
+try to run this script (on `ssh`)
+```Bash
+  sudo mkdir -p /var/run/mysqld
+  sudo chown mysql /var/run/mysqld/
+  sudo service mysql restart
+```
+<small>http://serverfault.com/questions/305053/mysqld-sock-doesnt-exist</small>
