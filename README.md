@@ -13,7 +13,7 @@
 - use **third party** to done it (windowOS)
 
 # Password Announcement
-1. ssh - use this (link)[http://www.md5online.org/md5-encrypt.html] to encrypt my given raw password
+1. ssh - use this [link](http://www.md5online.org/md5-encrypt.html) to encrypt my given raw password
 2. phpmyadmin - user should be `root` and password will stay at `~/.digitalocean_password`
 
 # Error
