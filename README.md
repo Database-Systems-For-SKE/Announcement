@@ -27,5 +27,5 @@ try to run this script (on `ssh`)
 ```
 <small>http://serverfault.com/questions/305053/mysqld-sock-doesnt-exist</small>
 
-# can't open phpmyadmin
+### can't open phpmyadmin
 - the port might appear, all you need just delete the port (`:80`)
