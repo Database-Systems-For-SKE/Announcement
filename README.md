@@ -29,7 +29,8 @@ Passwordless via `ssh` (to debug)
 8. exec `exit`
 9. try to [ssh](#ssh) again (and this time program will no asking for password)
 
-via: https://coolestguidesontheplanet.com/make-passwordless-ssh-connection-osx-10-9-mavericks-linux/
+via1: https://coolestguidesontheplanet.com/make-passwordless-ssh-connection-osx-10-9-mavericks-linux/
+via2: https://www.cyberciti.biz/tips/linux-multiple-ssh-key-based-authentication.html
 
 # Error
 ### 2002
