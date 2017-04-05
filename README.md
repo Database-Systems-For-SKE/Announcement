@@ -17,10 +17,8 @@
 2. phpmyadmin - user should be `root` and password will stay at `~/.digitalocean_password`
 
 # Error
-
-## 2002
+### 2002
 2002 - No such file or directory<br />The server is not responding (or the local server's socket is not correctly configured).
-
 try to run this script (on `ssh`)
 ```Bash
   sudo mkdir -p /var/run/mysqld
@@ -28,3 +26,6 @@ try to run this script (on `ssh`)
   sudo service mysql restart
 ```
 <small>http://serverfault.com/questions/305053/mysqld-sock-doesnt-exist</small>
+
+# can't open phpmyadmin
+- the port might appear, all you need just delete the port (`:80`)
