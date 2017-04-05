@@ -45,3 +45,10 @@ try to run this script (on `ssh`)
 
 ### can't open phpmyadmin
 - the port might appear, all you need just delete the port (`:80`)
+
+
+# Knowledge
+1. ssh `1 user multiple servers`
+    - http://serverfault.com/questions/221760/multiple-public-keys-for-one-user
+2. ssh `multiple user 1 server`
+    - https://www.cyberciti.biz/tips/linux-multiple-ssh-key-based-authentication.html
