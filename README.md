@@ -1,5 +1,45 @@
 # Planning-Design
 
+# Latest Announment
+
+> 4 teams are created
+1. [Design](#Design)
+2. [Frontend](#frontend)
+3. [Backend](#backend)
+4. [Tester](#tester)
+
+### Design
+Q: What you do?  
+A: design frontend (maybe database association)
+
+Q: What permission you have?  
+A: Read Frontend Project (`Read` Premission)
+
+### Frontend
+Q: What you do?  
+A: frontend development (web and front api)
+
+Q: What permission you have?  
+A: Full access to Frontend Project (`Admin` Premission)
+
+### Backend
+Q: What you do?  
+A: design backend (include api, json parse and database model)
+
+Q: What permission you have?  
+A: Full access to Backend Project (`Admin` Premission)
+
+### Tester
+Q: What you do?  
+A: test all possible, to find out any kind of bug have to fix
+
+Q: What permission you have?  
+A: Read both Frontend and Backend Project (`Read` Premission)
+
+--------------------
+
+# Web description
+
 |Link|Description|
 |----|-----------|
 | [139.59.96.74](https://139.59.96.74) |raw ip address (use for `ssh`) |
