@@ -1,5 +1,3 @@
-# Planning-Design
-
 # Latest Announment
 
 > 4 teams are created
@@ -72,6 +70,8 @@ Passwordless via `ssh` (to debug)
 via1: https://coolestguidesontheplanet.com/make-passwordless-ssh-connection-osx-10-9-mavericks-linux/  
 via2: https://www.cyberciti.biz/tips/linux-multiple-ssh-key-based-authentication.html
 
+--------------------
+
 # Error
 ### 2002
 2002 - No such file or directory<br />The server is not responding (or the local server's socket is not correctly configured).
@@ -86,6 +86,7 @@ try to run this script (on `ssh`)
 ### can't open phpmyadmin
 - the port might appear, all you need just delete the port (`:80`)
 
+--------------------
 
 # Knowledge
 1. ssh `1 user multiple servers`
