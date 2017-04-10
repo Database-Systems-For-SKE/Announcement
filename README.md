@@ -38,11 +38,12 @@ A: Read both Frontend and Backend Project (`Read` Premission)
 
 # Web description
 
-|Link|Description|
-|----|-----------|
-| [139.59.96.74](https://139.59.96.74) |raw ip address (use for `ssh`) |
-| [kamontat.me](https://kamontat.me) | Main website (should always map to `https`) |
-| [kamontat.me/phpmyadmin/](https://kamontat.me/phpmyadmin/) | phpmyadmin site |
+| Link                                                       | Description                                 |
+|------------------------------------------------------------|---------------------------------------------|
+| [139.59.96.74](https://139.59.96.74)                       |raw ip address (use for `ssh`)               |
+| [kamontat.me](https://kamontat.me)                         | Main website (should always map to `https`) |
+| [api.kamontat.me](https://api.kamontat.me)                 | API/Backend page for connection to database |
+| [kamontat.me/phpmyadmin/](https://kamontat.me/phpmyadmin/) | phpmyadmin site                             |
 
 # how to
 
@@ -52,7 +53,7 @@ A: Read both Frontend and Backend Project (`Read` Premission)
 
 # Password Announcement
 1. ssh - use this [link](http://www.md5online.org/md5-encrypt.html) to encrypt my given raw password
-2. phpmyadmin - user should be `root` and password will stay at `~/.digitalocean_password`
+2. other password you can found at `~/.password`
 
 # Important 
 
