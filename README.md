@@ -40,9 +40,10 @@ A: Read both Frontend and Backend Project (`Read` Premission)
 
 | Link                                                       | Description                                 |
 |------------------------------------------------------------|---------------------------------------------|
-| [139.59.96.74](https://139.59.96.74)                       |raw ip address (use for `ssh`)               |
+| [139.59.96.74](https://139.59.96.74)                       | raw ip address (use for `ssh`)              |
 | [kamontat.me](https://kamontat.me)                         | Main website (should always map to `https`) |
 | [api.kamontat.me](https://api.kamontat.me)                 | API/Backend page for connection to database |
+| [api.kamontat.me/docs/](https://api.kamontat.me/docs/)     | backend document                            |
 | [kamontat.me/phpmyadmin/](https://kamontat.me/phpmyadmin/) | phpmyadmin site                             |
 
 # how to
